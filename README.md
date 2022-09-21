@@ -1,2 +1,2 @@
 # chatApp
-we find here the code of my simple chat app 
+this is a simple chats application written in java , with TCP sockets 
